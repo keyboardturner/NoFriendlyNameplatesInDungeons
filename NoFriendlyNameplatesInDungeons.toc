@@ -1,0 +1,7 @@
+## Interface: 90205
+## Title: No Friendly Nameplates in Dungeons
+## Notes: A small script to automatically turn off friendly nameplates in instanced content, where addons can't affect friendly nameplates anyway.
+## Author: Keyboardturn
+## Version: 0.0.1
+
+NoFriendlyNameplatesInDungeons.lua
